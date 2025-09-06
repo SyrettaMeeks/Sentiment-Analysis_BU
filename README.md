@@ -16,8 +16,7 @@ This project was developed as part of my Master's program in Applied Business An
 
 ## 🚀 Live Demo
 
-Check out the complete tutorial in action: [sentiment_tutorial.py](sentiment_tutorial.py)
-
+Check out the complete tutorial in action: [sentiment_tutorial.py] [tutorial.py](tutorial.py)
 Run the full analysis:
 ```bash
 python sentiment_tutorial.py
