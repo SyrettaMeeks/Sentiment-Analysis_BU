@@ -113,7 +113,7 @@ From our actual survey analysis of 16 customer responses:
 ## 🎓 Complete Learning Path
 
 ### Beginner Level
-1. **Run the Tutorial**: Execute `sentiment_tutorial.py` for complete walkthrough
+1. **Run the Tutorial**: Execute `tutorial.py` for complete walkthrough
 2. **Understand Output**: Review generated CSV files and visualizations
 3. **Modify Data**: Replace sample data with your own survey responses
 
